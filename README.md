@@ -154,13 +154,6 @@ BTS T-100 provides monthly segment-level data. Daily averages are computed per-m
 
 ### Regional Carriers
 Airlines like Republic, Endeavor, SkyWest, and GoJet operate flights branded as American Eagle, Delta Connection, or United Express. BTS T-100 data only reports the operating carrier, not the marketing carrier. These regionals are shown as-is because the data doesn't allow reliable attribution to mainline brands.
-
----
-
-## Inspiration
-
-Inspired by a similar [Chicago O'Hare flight routes project](https://ord-flight-routes-production.up.railway.app/ord-simulation.html) that mapped every ORD route by competition level. This NYC version extends the concept to three airports, adds the hub split analysis, and uses market share instead of carrier count for competition classification.
-
 ---
 
 ## License

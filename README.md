@@ -1,11 +1,9 @@
 # nyc-flight-routes
-nteractive 3D globe dashboard mapping every flight route out of NYC airports (JFK, EWR, LGA) — colored by airline market share competition. Built with real BTS T-100 data (568K+ segment records, 2025).
+Interactive 3D globe dashboard mapping every flight route out of NYC airports (JFK, EWR, LGA) — colored by airline market share competition. Built with real BTS T-100 data (568K+ segment records, 2025).
 
 # ✈️ NYC Flight Routes Intelligence
 
 **Interactive 3D globe dashboard mapping every flight route out of New York City's three major airports — JFK, EWR, and LGA — colored by airline market share competition.**
-
-🔗 **[Live Demo →](https://yourusername.github.io/nyc-flight-routes/)**
 
 ---
 
